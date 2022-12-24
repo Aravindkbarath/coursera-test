@@ -1,0 +1,93 @@
+#main{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0px;
+    font-size: 25px;
+}
+header,h1{
+    /* background-image: url("barathlinkedInbanner.png"); */
+    text-align: center;
+    padding: 130px;
+    font-size: 80px;
+    transition: 1.5s;
+    margin: 0px;
+}
+h2{
+    margin: 0px;
+    font-size: 40px;
+}
+h3,h4{
+    margin: 20px 0px 10px 0px;
+    font-weight: 700;
+}
+/* h4{
+    text-align: center;
+} */
+/* button{
+    /* margin: 0px; */
+    /* padding: 0px 0px 0px 0px;
+    margin: 10px;
+    border: 20px;
+    font-size: 50px;
+    display: inline;
+    border-radius: 300% 300% 300% 300%;
+} */ 
+.contact>a,i{
+    font-size: 50px;
+    margin: 5px;
+    border-radius: 300% 300% 300% 300%;
+    padding: 0px;
+    /* background-color: #a09470; */
+}
+.header{
+    background-image: url("barathlinkedInbanner.png");
+    /* background-clip: border-box; */
+    background-position: center;
+}
+
+.Education{
+    text-align: center;
+    background-color: #7b83a7;
+    font-weight: 700;
+    margin: 0px;
+    
+}
+.Experience{
+    font-weight: 700;
+    text-align: center;
+    margin: 0px;
+    background-color: #f2edd4;
+}
+.Projects{
+    margin: 0px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #51b5c9;
+}
+.Skills{
+    text-align: center;
+    font-weight: 700;
+    background-color: #d8dcf3;
+    margin: 0px;
+}
+.Certification{
+    margin: 0px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #cac7ba;
+}
+ul {
+    list-style-type: square;
+    list-style-position: outside;
+    margin: 0px 0px 0px 100px;
+    text-align: center;
+    padding: 10px 10px 30px 10px;
+    /* padding-left: 40px;*/
+    /* display: none; */
+}
+li{
+    text-align: left;
+  }
+  div{
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+  }
